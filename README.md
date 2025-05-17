@@ -1,38 +1,38 @@
-#IMDb Data Extractor (React + Vite)
+IMDb Data Extractor (React + Vite)
 
-##Captura de Tela do Projeto
+Captura de Tela do Projeto
 
-##Um aplicativo web que extrai e exibe informações detalhadas de filmes e séries usando a API não-oficial do IMDb.
+Um aplicativo web que extrai e exibe informações detalhadas de filmes e séries usando a API não-oficial do IMDb.
 ✨ Funcionalidades
 
-    🔍 Busca por ID do IMDb (ex: tt0944947)
+🔍 Busca por ID do IMDb (ex: tt0944947)
 
-    🎬 Exibe informações completas do título
+🎬 Exibe informações completas do título
 
-    📊 Mostra avaliação e contagem de votos
+📊 Mostra avaliação e contagem de votos
 
-    🎥 Lista diretores e elenco principal
+🎥 Lista diretores e elenco principal
 
-    📱 Design responsivo para todos os dispositivos
+📱 Design responsivo para todos os dispositivos
 
-    ⚡ Carregamento rápido com Vite
+⚡ Carregamento rápido com Vite
 
-    🔄 Busca automática quando ID é passado na URL
+🔄 Busca automática quando ID é passado na URL
 
 🛠 Tecnologias
 
-    React 18
+   React 18
 
-    Vite
+   Vite
 
-    CSS Modules
+   CSS Modules
 
-    Fetch API
+   Fetch API
 
 🚀 Como Executar
 Pré-requisitos
 
-    Node.js (v16 ou superior)
+Node.js (v16 ou superior)
 
     npm ou yarn
 
