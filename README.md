@@ -1,33 +1,34 @@
-IMDb Data Extractor (React + Vite)
+# IMDb Data Extractor (React + Vite)
 
-Captura de Tela do Projeto
+## Captura de Tela do Projeto
 
-Um aplicativo web que extrai e exibe informações detalhadas de filmes e séries usando a API não-oficial do IMDb.
+## Um aplicativo web que extrai e exibe informações detalhadas de filmes e séries usando a API não-oficial do IMDb.
+
 ✨ Funcionalidades
 
-🔍 Busca por ID do IMDb (ex: tt0944947)
+- 🔍 Busca por ID do IMDb (ex: tt0944947)
 
-🎬 Exibe informações completas do título
+- 🎬 Exibe informações completas do título
 
-📊 Mostra avaliação e contagem de votos
+- 📊 Mostra avaliação e contagem de votos
 
-🎥 Lista diretores e elenco principal
+- 🎥 Lista diretores e elenco principal
 
-📱 Design responsivo para todos os dispositivos
+- 📱 Design responsivo para todos os dispositivos
 
-⚡ Carregamento rápido com Vite
+- ⚡ Carregamento rápido com Vite
 
-🔄 Busca automática quando ID é passado na URL
+- 🔄 Busca automática quando ID é passado na URL
 
 🛠 Tecnologias
 
-   React 18
+-   React 18
 
-   Vite
+-   Vite
 
-   CSS Modules
+-   CSS Modules
 
-   Fetch API
+-   Fetch API
 
 🚀 Como Executar
 Pré-requisitos
@@ -36,7 +37,7 @@ Node.js (v16 ou superior)
 
     npm ou yarn
 
-Instalação
+## Instalação
 
 1. Clone o repositório:
    ```sh
@@ -56,27 +57,27 @@ Instalação
    http://localhost:5173/?id=tt0944947
    ```
 
-Build para Produção
-`sh
+## Build para Produção
+```sh
     npm run build
-    `
+```
 
 🎯 Como Usar
 
-    Acesse o aplicativo no navegador
+- Acesse o aplicativo no navegador
 
-    Digite um ID válido do IMDb (ex: tt0944947 para "Game of Thrones")
+- Digite um ID válido do IMDb (ex: tt0944947 para "Game of Thrones")
 
-    Clique em "Buscar Dados" ou:
+- Clique em "Buscar Dados" ou:
 
-    Acesse diretamente com o parâmetro na URL: /?id=tt0944947
+- Acesse diretamente com o parâmetro na URL: /?id=tt0944947
 
 🌐 API Utilizada
 
 O projeto usa a API não-oficial do IMDb disponível em:
-`sh
+```sh
     https://graph.imdbapi.dev/v1
-    `
+```
 
 ## Licença
 
