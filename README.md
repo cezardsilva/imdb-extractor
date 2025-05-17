@@ -22,13 +22,13 @@
 
 🛠 Tecnologias
 
--   React 18
+- React 18
 
--   Vite
+- Vite
 
--   CSS Modules
+- CSS Modules
 
--   Fetch API
+- Fetch API
 
 🚀 Como Executar
 Pré-requisitos
@@ -41,7 +41,7 @@ Node.js (v16 ou superior)
 
 1. Clone o repositório:
    ```sh
-       git clone https://github.com/seu-usuario/imdb-data-extractor.git
+       git clone https://github.com/cezardsilva/imdb-data-extractor.git
        cd imdb-data-extractor
    ```
 2. Instale as dependências:
@@ -58,6 +58,7 @@ Node.js (v16 ou superior)
    ```
 
 ## Build para Produção
+
 ```sh
     npm run build
 ```
@@ -75,6 +76,7 @@ Node.js (v16 ou superior)
 🌐 API Utilizada
 
 O projeto usa a API não-oficial do IMDb disponível em:
+
 ```sh
     https://graph.imdbapi.dev/v1
 ```
